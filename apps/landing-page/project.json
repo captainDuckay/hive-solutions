@@ -4,11 +4,16 @@
   "projectType": "application",
   "prefix": "app",
   "sourceRoot": "apps/landing-page/src",
-  "tags": [],
+  "tags": [
+    "type:app",
+    "scope:landing-page"
+  ],
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:application",
-      "outputs": ["{options.outputPath}"],
+      "outputs": [
+        "{options.outputPath}"
+      ],
       "options": {
         "outputPath": "dist/apps/landing-page",
         "index": "apps/landing-page/src/index.html",
@@ -20,7 +25,9 @@
             "input": "apps/landing-page/public"
           }
         ],
-        "styles": ["apps/landing-page/src/styles.css"],
+        "styles": [
+          "apps/landing-page/src/styles.css"
+        ],
         "scripts": [],
         "server": "apps/landing-page/src/main.server.ts",
         "ssr": {
@@ -78,7 +85,9 @@
     },
     "test": {
       "executor": "@nx/jest:jest",
-      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
+      "outputs": [
+        "{workspaceRoot}/coverage/{projectRoot}"
+      ],
       "options": {
         "jestConfig": "apps/landing-page/jest.config.ts"
       }
