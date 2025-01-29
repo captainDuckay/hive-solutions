@@ -1,0 +1,9 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-page-container {
+  width: var(--content-width);
+}

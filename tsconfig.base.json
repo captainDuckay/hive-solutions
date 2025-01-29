@@ -14,7 +14,23 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@hive-solution/landing-page-feature-404": [
+        "libs/landing-page/feature-404/src/index.ts"
+      ],
+      "@hive-solution/landing-page-feature-about-me": [
+        "libs/landing-page/feature-about-me/src/index.ts"
+      ],
+      "@hive-solution/landing-page-feature-header": [
+        "libs/landing-page/feature-header/src/index.ts"
+      ],
+      "@hive-solution/landing-page-feature-home": [
+        "libs/landing-page/feature-home/src/index.ts"
+      ],
+      "@hive-solution/landing-page-feature-main": [
+        "libs/landing-page/feature-main/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

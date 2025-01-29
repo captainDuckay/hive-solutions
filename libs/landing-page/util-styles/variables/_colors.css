@@ -1,10 +1,6 @@
 :root {
   /* === PRIMARY COLORS === */
-  --primary-500: #ce6b05;   /* Main orange for accents */
-
-  /* === SECONDARY COLORS === */
-  --secondary-500: #fac559;  /* Light yellow/amber */
-  --accent-color: #491708;   /* Dark brown/maroon */
+  --primary: #fb7e14ff;   /* Main orange for accents */
 
   /* === NEUTRAL COLORS === */
   --background-main: #f9f7f3; /* Main background (lightest) */
@@ -13,37 +9,25 @@
   --surface-100: #f0e5da;      /* Subtle surface variation */
 
   /* === GRAYSCALE === */
-  --gray-900: #2d2d2d;        /* Dark gray for text (primary) */
-  --gray-800: #4a4a4a;        /* Secondary/descriptive text */
-  --gray-700: #636e72;        /* Tertiary text or borders */
+  --gray-900: #161e20;        /* Dark gray for text (primary) */
 
   /* === ACCENT COLORS === */
   --accent-500: #ffd861;      /* Brighter yellow-orange accent */
-  --accent-400: #ff9f43;      /* Red-amber accent */
-  --accent-300: #ff5e3a;      /* Deep orange accent */
 }
 
 [data-theme="dark"] {
   /* === PRIMARY COLORS === */
-  --primary-500: #FF9F43;   /* Brighter version of your orange for dark mode */
-
-  /* === SECONDARY COLORS === */
-  --secondary-500: #FAC559;  /* Light yellow/amber */
-  --accent-color: #D6B27C;   /* Tan variation of your dark brown/maroon */
+  --primary: #fb7e14ff;   /* Brighter version of your orange for dark mode */
 
   /* === NEUTRAL COLORS === */
   --background-main: #181818; /* Main background (darkest) */
   --background-foreground: #242424; /* Foreground/section backgrounds */
-  --background-surface: #333333; /* Surface-level elements */
+  --background-surface: #161e20; /* Surface-level elements */
   --surface-100: #404040;      /* Subtle surface variation */
 
   /* === GRAYSCALE === */
   --gray-900: #ffffff;        /* White for text (primary) */
-  --gray-800: #e5e7eb;        /* Secondary/descriptive text */
-  --gray-700: #d1d5db;        /* Tertiary text or borders */
 
   /* === ACCENT COLORS === */
   --accent-500: #FFD861;      /* Brighter yellow-orange accent */
-  --accent-400: #FF9F43;      /* Red-amber accent */
-  --accent-300: #FF5E3A;      /* Deep orange accent */
 }

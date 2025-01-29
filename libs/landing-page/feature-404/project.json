@@ -1,0 +1,23 @@
+{
+  "name": "landing-page-feature-404",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/landing-page/feature-404/src",
+  "prefix": "lan",
+  "projectType": "library",
+  "tags": [
+    "scope:landing-page",
+    "type:feature"
+  ],
+  "targets": {
+    "test": {
+      "executor": "@nx/jest:jest",
+      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
+      "options": {
+        "jestConfig": "libs/landing-page/feature-404/jest.config.ts"
+      }
+    },
+    "lint": {
+      "executor": "@nx/eslint:lint"
+    }
+  }
+}

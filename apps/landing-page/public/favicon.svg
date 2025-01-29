@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="48" height="48"><svg width="48" height="48" viewBox="0 0 12.7 12.7" version="1.1" id="SvgjsSvg1011" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-  <defs id="SvgjsDefs1010"></defs>
-  <g id="SvgjsG1009">
-    <g id="SvgjsG1008" transform="matrix(7.8886266,0,0,7.8886266,-647.26522,-1063.5511)">
-      <path style="fill:none;stroke:#ce6b05;stroke-width:0.123468;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="SvgjsPath1007" d="m 77.141466,135.89796 -0.558191,0.32227 -0.558191,-0.32227 0,-0.64455 0.558191,-0.32227 0.558191,0.32227 z" transform="matrix(1.1338981,0,0,1.1338981,-3.982242,-18.103239)"></path>
-      <path style="fill:#491708;fill-opacity:1;stroke:#fac559;stroke-width:0.130839;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="SvgjsPath1006" d="m 77.141466,135.89796 -0.558191,0.32227 -0.558191,-0.32227 0,-0.64455 0.558191,-0.32227 0.558191,0.32227 z" transform="matrix(0.7642975,0,0,0.7642975,24.327739,31.995542)"></path>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="31.999998" height="31.999998"><svg width="31.999998" height="31.999998" viewBox="0 0 8.466666 8.466666" version="1.1" id="SvgjsSvg1015" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <defs id="SvgjsDefs1014"></defs>
+  <g id="SvgjsG1013">
+    <path style="fill:#fb7e14;fill-opacity:1;stroke:#fb7e14;stroke-width:0.146794;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="SvgjsPath1012" d="m 3.0310889,3.15 -1.2124356,-0.7 0,-1.4 L 3.0310888,0.35000002 4.2435244,1.05 l 0,1.4 z" transform="matrix(1.1408436,0,0,1.1408436,-0.60786487,-0.15181371)"></path>
+    <path style="fill:none;fill-opacity:1;stroke:#fb7e14;stroke-width:0.146794;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="SvgjsPath1011" d="m 3.0310889,3.15 -1.2124356,-0.7 0,-1.4 L 3.0310888,0.35000002 4.2435244,1.05 l 0,1.4 z" transform="matrix(1.1408436,0,0,1.1408436,-1.9910644,2.2439576)"></path>
+    <path style="fill:#fb7e14;fill-opacity:1;stroke:#fb7e14;stroke-width:0.146794;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="SvgjsPath1010" d="m 3.0310889,3.15 -1.2124356,-0.7 0,-1.4 L 3.0310888,0.35000002 4.2435244,1.05 l 0,1.4 z" transform="matrix(1.1408436,0,0,1.1408436,-0.60786487,4.6397311)"></path>
+    <path style="fill:none;stroke:#fb7e14;stroke-width:0.146794;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="SvgjsPath1009" d="m 3.0310889,3.15 -1.2124356,-0.7 0,-1.4 L 3.0310888,0.35000002 4.2435244,1.05 l 0,1.4 z" transform="matrix(1.1408436,0,0,1.1408436,2.1585335,4.6397311)"></path>
+    <path style="fill:none;stroke:#fb7e14;stroke-width:0.146794;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="SvgjsPath1008" d="m 3.0310889,3.15 -1.2124356,-0.7 0,-1.4 L 3.0310888,0.35000002 4.2435244,1.05 l 0,1.4 z" transform="matrix(1.1408436,0,0,1.1408436,3.5417339,2.2439576)"></path>
   </g>
 </svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
 @media (prefers-color-scheme: dark) { :root { filter: none; } }
